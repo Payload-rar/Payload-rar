@@ -11,3 +11,7 @@ Here you'll find repositories ranging from simple tools to more advanced scripts
 - **CTF essays**: Detailed descriptions of challenges I've solved, covering topics such as cryptography, steganography and Web mining.
 - And more...
 I'm still learning and hope to share my projects here soon.
+# 🌐 Contact Me
+[![twitter](https://img.shields.io/twitter/follow/:Payload_rar)](https://x.com/Payload_rar)
+
+
